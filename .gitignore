@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO / Ultralytics outputs
+runs/
+runs*/
+datasets/
+*.pt
+*.onnx
+
+# Virtual environments
+venv/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db
